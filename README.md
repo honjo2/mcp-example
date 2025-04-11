@@ -30,6 +30,10 @@ claude_desttop_config.jsonに以下追加しClaudeデスクトップアプリを
 }
 ```
 
+## MCPクライアント（Roo Code）に追加
+
+Roo Codeの上部のMCP ServersのグローバルMCPを編集で開くjsonファイルに上記同様のものを追加
+
 ## 使い方
 
 Claudeデスクトップアプリで「double_numberを使って3を2倍した結果を表示して」と入力する
